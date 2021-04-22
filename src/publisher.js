@@ -21,7 +21,9 @@ broker.on('connect', async () => {
   console.log("Conectado no broker MQTT");
 });
 
-broker.on("message", function (data) {
+broker.subscribe("mqtt_sd_microproject_5/client");
+
+broker.on("message", function (topic, data) {
   const request = data.toString().trim();
   const args = request.split(" ");
 

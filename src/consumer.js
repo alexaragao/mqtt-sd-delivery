@@ -25,10 +25,10 @@ broker.on('message', (topic, message) => {
 });
 
 rl.on('line', line => {
-  broker.publish("mqtt_sd_microproject_5", line + "\n");
+  broker.publish("mqtt_sd_microproject_5/client", line + "\n");
 
   if (line === "exit") {
-    broker.publish("mqtt_sd_microproject_5", "exit\n");
+    broker.publish("mqtt_sd_microproject_5/client", "exit\n");
     broker.unsubscribe("mqtt_sd_microproject_5");
     rl.close();
   }
