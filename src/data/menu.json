@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "name": "Parmesão Artesanal",
+      "price_br": 19.50
+    },
+    {
+      "name": "Supreme Artesanal",
+      "price_br": 19.50
+    },
+    {
+      "name": "Artesanal Bourbon Bacon",
+      "price_br": 18.00
+    },
+    {
+      "name": "Big Bob Artesanal",
+      "price_br": 20.00
+    },
+    {
+      "name": "Bob’s Artesanal",
+      "price_br": 22.00
+    },
+    {
+      "name": "Bob’s Australiano",
+      "price_br": 17.50
+    },
+    {
+      "name": "Gran Picanha",
+      "price_br": 17.50
+    },
+    {
+      "name": "Picanha Gourmet",
+      "price_br": 17.50
+    },
+    {
+      "name": "Picanha Barbecue",
+      "price_br": 18.00
+    },
+    {
+      "name": "Big Bob Picanha",
+      "price_br": 17.50
+    },
+    {
+      "name": "Big Bob",
+      "price_br": 12.00
+    },
+    {
+      "name": "Cheddar",
+      "price_br": 14.00
+    },
+    {
+      "name": "Cheeseburger",
+      "price_br": 11.50
+    },
+    {
+      "name": "Bob’s Burger",
+      "price_br": 11.00
+    },
+    {
+      "name": "Frango Crispy",
+      "price_br": 16.50
+    },
+    {
+      "name": "Franfilé",
+      "price_br": 16.50
+    },
+    {
+      "name": "Salada de Atum",
+      "price_br": 12.00
+    },
+    {
+      "name": "Salada de Frango",
+      "price_br": 12.00
+    }
+  ]
+}
